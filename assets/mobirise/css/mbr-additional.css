@@ -518,3 +518,95 @@ h6,
 #msg-box3-e .mbr-section-title I {
   color: #d14841;
 }
+#menu-y .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-y .navbar-caption {
+  color: #ffffff;
+}
+#menu-y .navbar-toggler {
+  color: #ffffff;
+}
+#menu-y .close-icon::before,
+#menu-y .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-y .link,
+#menu-y .dropdown-item {
+  color: #ffffff;
+}
+#menu-y .link {
+  font-size: 0.75rem;
+}
+#menu-y .dropdown-item,
+#menu-y .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-y .link:hover,
+#menu-y .dropdown-item:hover,
+#menu-y .link:focus,
+#menu-y .dropdown-item:focus {
+  color: #2969b0;
+}
+#menu-y .link[aria-expanded="true"],
+#menu-y .dropdown-menu {
+  background: #0e0e0e;
+}
+#menu-y .nav-dropdown-sm .link:focus,
+#menu-y .nav-dropdown-sm .link:hover,
+#menu-y .nav-dropdown-sm .dropdown-item:focus,
+#menu-y .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#menu-y .navbar,
+#menu-y .nav-dropdown-sm,
+#menu-y .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-y .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#menu-y .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-y .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-y .bg-color.transparent.opened .link:hover,
+#menu-y .bg-color.transparent.opened .link:focus {
+  color: #2969b0;
+}
+#menu-y .link[aria-expanded="true"],
+#menu-y .dropdown-item[aria-expanded="true"] {
+  color: #2969b0!important;
+}
+#header5-11 .mbr-section-title {
+  color: #000;
+}
+#header5-11 .mbr-section-lead {
+  color: #000000;
+}
+#msg-box5-1a P {
+  text-align: left;
+  color: #000000;
+}
+#header2-17 .mbr-section-title {
+  color: #000000;
+}
+#header2-17 .mbr-section-text {
+  color: #000000;
+}
+#testimonials1-1b .card-block P {
+  color: #000000;
+}
+#testimonials3-1c .mbr-section-title {
+  color: #efefef;
+}
+#testimonials3-1c .mbr-author-name {
+  color: #ccc;
+}
+#testimonials3-1c .card-block P {
+  color: #000000;
+}
+#testimonials3-1c .card-footer > div {
+  color: #000000;
+}
